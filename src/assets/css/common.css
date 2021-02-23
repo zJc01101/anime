@@ -1,0 +1,25 @@
+
+a{
+    text-decoration:none;
+    color: gray;
+}
+a:link{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:none;
+}
+a:hover{
+    text-decoration:none;
+}
+a:active{
+    text-decoration:none;
+}
+li{
+    list-style:none;
+}
+.active
+{ 
+/* background-color:#fc532f; */
+color: #fc532f;
+}

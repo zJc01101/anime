@@ -1,0 +1,44 @@
+{
+  "id": "2379941",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "908532",
+      "name": "社区",
+      "font_class": "shequ",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "2151369",
+      "name": "书架",
+      "font_class": "shujia",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "5661145",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "11082522",
+      "name": "首页",
+      "font_class": "dibutubiao_shouye",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "14656297",
+      "name": "精选优品",
+      "font_class": "jingxuanyoupin",
+      "unicode": "e731",
+      "unicode_decimal": 59185
+    }
+  ]
+}
